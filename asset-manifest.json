@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RPSLS/static/css/main.208d5800.chunk.css",
+    "main.js": "/RPSLS/static/js/main.f8ab4329.chunk.js",
+    "main.js.map": "/RPSLS/static/js/main.f8ab4329.chunk.js.map",
+    "runtime-main.js": "/RPSLS/static/js/runtime-main.f21896f7.js",
+    "runtime-main.js.map": "/RPSLS/static/js/runtime-main.f21896f7.js.map",
+    "static/js/2.21cb96ef.chunk.js": "/RPSLS/static/js/2.21cb96ef.chunk.js",
+    "static/js/2.21cb96ef.chunk.js.map": "/RPSLS/static/js/2.21cb96ef.chunk.js.map",
+    "index.html": "/RPSLS/index.html",
+    "static/css/main.208d5800.chunk.css.map": "/RPSLS/static/css/main.208d5800.chunk.css.map",
+    "static/js/2.21cb96ef.chunk.js.LICENSE.txt": "/RPSLS/static/js/2.21cb96ef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RPSLS/static/media/icon-spock.f4d7eee8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f21896f7.js",
+    "static/js/2.21cb96ef.chunk.js",
+    "static/css/main.208d5800.chunk.css",
+    "static/js/main.f8ab4329.chunk.js"
+  ]
+}

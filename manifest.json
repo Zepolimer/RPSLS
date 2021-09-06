@@ -1,0 +1,8 @@
+{
+  "short_name": "RPSLS",
+  "name": "Rock Paper Scissors Lizard Spock",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
